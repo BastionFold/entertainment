@@ -44,3 +44,11 @@ Watch something, then step inside it.
 Logos are the locked Bastion Fold family: the company cube sits entire
 inside the clapperboard (division) and inside each project's object —
 the TV, the pirate map, and the open book.
+
+## Bastion Fold path
+
+[Bastion Fold general hub](https://www.bastion-fold-site.workers.dev/) -> **Entertainment** (this repo) -> Endless Watch, Questline, and StoryVerse above.
+
+- Entertainment pricing: [https://www.bastion-fold-site.workers.dev/pricing/#entertainment](https://www.bastion-fold-site.workers.dev/pricing/#entertainment)
+- Other branch hubs: [CLI Hub](https://www.bastion-fold-site.workers.dev/hubs/) · [Global Projects](https://www.bastion-fold-site.workers.dev/global/)
+- Private branch stack: Global-entertainment-hub and entertainment-system (indexes)
